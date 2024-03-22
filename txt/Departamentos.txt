@@ -1,0 +1,3 @@
+Codigo: 1	Nombre: Ventas	Presupuesto: 120000
+Codigo: 2	Nombre: Recursos Humanos	Presupuesto: 15000
+Codigo: 3	Nombre: Contabilidad	Presupuesto: 45000
